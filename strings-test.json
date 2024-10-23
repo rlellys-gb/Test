@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "string": [
+      {
+        "name": "receipt_scan_cta_button_text",
+        "value": "TEST SCRIPT SNAP RECEIPT"
+      }
+    ]
+  }
+}
